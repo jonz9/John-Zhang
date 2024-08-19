@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John Zhang</h1>
+<h1 align="center">Hi, I'm John</h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Game+Developer;Graphic+Designer" alt="Typing SVG" /></a>
@@ -23,11 +23,9 @@
 </p>
 
 ## About me
-- 🎓 I am a first-year student at the University of Waterloo for Computer Science
-- 🛠️ I have built full-stack web applications, video games and hardware trinkets
-- 💼 I am currently searching for a Summer 2024 software developer internship
-- 💞️ I’m always looking to collaborate on any upcoming hackathons or open-source projects
-- 🥳 Fun fact: I love hockey, chess, running, and cats!
+- I'm a Computer Engineering student at the University of Waterloo
+- I've built firmware and full-stack web-applications
+- Always looking to learn more about whatever interests me; currently topics surrounding ML and Embedded Systems
 
 ## Programming Languages
 
@@ -68,17 +66,3 @@
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
- <a href="https://github.com/jonz9">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api?username=jonz9&show_icons=true&theme=react" />
-  </a>
-
-  <a href="https://github.com/jonz9">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonz9&layout=compact&theme=react&langs_count=10" />
-  </a>
-</p>
