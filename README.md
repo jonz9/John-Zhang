@@ -6,16 +6,16 @@
 
 <p align="center">
  <a href="https://jonz9.github.io/personal-website/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-Black?style=flat-square" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio" />
  </a>
  <a href="mailto:j444zhan@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Black?style=flat-square" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
  </a> 
  <a href="https://www.linkedin.com/in/john-zhang-2665b9236/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Black?style=flat-square" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
-</p>
-
+ 
+</p> make these all black and minimalistic
 ## About me
 - I'm a Computer Engineering student at the University of Waterloo
 - I've built firmware and full-stack web-applications
