@@ -6,13 +6,13 @@
 
 <p align="center">
  <a href="https://jonz9.github.io/personal-website/" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-Black?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Portfolio-Black?style=flat-square" alt="Portfolio" />
  </a>
  <a href="mailto:j444zhan@uwaterloo.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Black?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Gmail-Black?style=flat-square" alt="Gmail" />
  </a> 
  <a href="https://www.linkedin.com/in/john-zhang-2665b9236/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Black?style=flat-square" alt="LinkedIn"/>
  </a>
 </p>
 
